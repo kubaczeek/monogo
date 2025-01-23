@@ -1,0 +1,8 @@
+{
+  "mainAccount": {
+    "email": "jakub.cichocki.qa@gmail.com"
+  },
+  "invalidEmailAccount": {
+    "email": "jakub.cichocki.qagmail.com"
+  }
+}
