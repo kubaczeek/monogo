@@ -1,4 +1,4 @@
-# Bejamas interview task
+# Monogo interview task
 
 ## Features
 
